@@ -16,5 +16,5 @@
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/user/15692234/)<br>
 <div align="center">
     <img height="220em" src="https://github-readme-stats.vercel.app/api?username=vargastm&show_icons=true&include_all_commits=true&theme=radical"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargastm&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=radical"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargastm&langs_count=5)](https://github.com/vargastm/github-readme-statsCompact&theme=radical"/>
 </div>

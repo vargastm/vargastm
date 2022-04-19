@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/vargastm/vargastm/main/images/githubbanner.png" width="100%">
+
 ## Hey, I'm Tiago Martins 👋
 
 - 🔭 I’m currently studying Systems Analysis and Development in JAVA

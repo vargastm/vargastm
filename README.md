@@ -19,5 +19,5 @@
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vargastm&show_icons=true&include_all_commits=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargastm&layout=compact&langs_count=6)](https://github.com/vargastm/github-readme-statsCompact&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargastm&layout=compact&langs_count=6&theme=radical"/>
 </div>

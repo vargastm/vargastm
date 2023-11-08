@@ -2,10 +2,10 @@
 
 ## Hey, I'm Tiago Martins 👋
 
-- 🔭 I’m currently studying Systems Analysis and Development in JAVA
-- 🌱 I’m currently learning JavaScript, TypeScript, ReactJS and Node.JS
+- 🔭 Graduated in Systems Analysis and Development
+- 🌱 I’m currently learning TypeScript, ReactJS and Node.JS
 - 👯 I made some projects using HTML, CSS, JavaScrpit and PHP
-- 🤔 I’m interested in studyng Python
+- 🎮 I'm having fun studying C# and Unity for game development
 - 💜 I’m passionate about Design and Front-end
 - 💻 I seek to learn more and more about front-end and back-end
 - 🇧🇷 Born in Florianópolis, Brazil <br> 

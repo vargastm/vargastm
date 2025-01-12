@@ -3,6 +3,7 @@
 ## Hey, I'm Tiago Martins 👋
 
 - 🔭 Graduated in Systems Analysis and Development
+- 🎓 Currently pursuing two postgraduate degrees in Full Stack Development
 - 🌱 I’m currently learning TypeScript, ReactJS and Node.JS
 - 👯 I made some projects using HTML, CSS, JavaScrpit and PHP
 - 🎮 I'm having fun studying C# and Unity for game development
